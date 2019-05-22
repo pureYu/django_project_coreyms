@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e5ec41b-8498-48ad-a0b7-8f0c9cbaf47c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project_coreyms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project_coreyms/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="46" />
           <entry key="json" value="2" />
-          <entry key="py" value="70" />
+          <entry key="py" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,21 +40,21 @@
           <entry key="HTML" value="46" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="70" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="17" />
           <entry key="html" value="2783" />
-          <entry key="py" value="14773" />
+          <entry key="py" value="14939" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="2783" />
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="14773" />
+          <entry key="Python" value="14939" />
         </counts>
       </usages-collector>
     </session>
@@ -63,11 +64,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/python_intro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="931" lean-forward="true" selection-start-line="931" selection-end-line="931" />
+            <state relative-caret-position="369">
+              <caret line="945" lean-forward="true" selection-start-line="945" selection-end-line="945" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django_project_coreyms/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -154,10 +164,10 @@
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" />
         <option value="$PROJECT_DIR$/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/../pyFirst/python_test.py" />
-        <option value="$PROJECT_DIR$/django_project_coreyms/settings.py" />
         <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$USER_HOME$/Desktop/python_intro.py" />
+        <option value="$PROJECT_DIR$/django_project_coreyms/settings.py" />
       </list>
     </option>
   </component>
@@ -182,6 +192,12 @@
             <path>
               <item name="django_project_coreyms" type="b2602c69:ProjectViewProjectNode" />
               <item name="django_project_coreyms" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="django_project_coreyms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django_project_coreyms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_project_coreyms" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="django_project_coreyms" type="462c0819:PsiDirectoryNode" />
               <item name="django_project_coreyms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -526,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_project_coreyms/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="140" column="19" selection-start-line="140" selection-end-line="140" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -552,8 +561,15 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/python_intro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="931" lean-forward="true" selection-start-line="931" selection-end-line="931" />
+        <state relative-caret-position="369">
+          <caret line="945" lean-forward="true" selection-start-line="945" selection-end-line="945" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_project_coreyms/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
         </state>
       </provider>
     </entry>
