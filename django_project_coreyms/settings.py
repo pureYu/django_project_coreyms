@@ -25,7 +25,7 @@ SECRET_KEY = '@g9jclov)xx0mwa0dfm24rhu8$skx3(f*$0oy3f7@a85g0*6@2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangoproj-coreyms.herokuapp.com', 'localhost']
 
 
 # Application definition
